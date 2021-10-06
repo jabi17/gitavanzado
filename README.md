@@ -1,3 +1,1 @@
 # gitavanzado
-
---- mi proyecto
